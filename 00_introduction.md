@@ -1,18 +1,16 @@
 # Learning Middleman
 
-This short book will show you how to create great websites, efficently using Middleman.
+This short book will show you how to create great websites, efficiently using Middleman.
 
-The websites will ultimately be static (HTML, CSS with a little JavaScript) but we'll cover some features of Middleman that offer some really dynamic functionality.
+Although the websites we will be building will be "static" (HTML, CSS with a little JavaScript) but we'll cover some features of Middleman that offer some really dynamic functionality.
 
-By the end of the book you will have another useful tool in your armoury that can help you quickly prototype and build websites. You should also be much more confident in accessing the Middleman documentation and know how to start building your own add-ons and code extensions.
+By the end of the book you will have another useful tool in your armory that can help you quickly prototype and build websites. You should also be much more confident in accessing the Middleman documentation and know how to start building your own add-ons and code extensions.
 
-> A static website generator is an application that helps you create HTML, CSS and JS websites in a dynamic fashion. That is, a static generator helps you use other tools to speed up development, so Scss instead of Css etc. and even programming languages such as Ruby or PHP
+> A static website generator is an application that helps you create HTML, CSS and JavaScript websites in a dynamic fashion. That is, a static generator helps you use other tools to speed up development, so Scss instead of Css etc. and even programming languages such as Ruby or PHP
 
 ## Why Middleman
 
 Middleman is an open-source ruby based static site generator.
-
-TODO >> one paragraph background
 
 There are many static website generators like Middleman, in any programming language of your choice, but rather than focus on relative strengths/weaknesses of all, the following are the some of the things I like about Middleman:
 
