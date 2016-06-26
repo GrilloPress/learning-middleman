@@ -9,7 +9,12 @@ The book is cut into the following chapters and sections:
 Preface
 Introduction
 Chapter one - Getting Started with Middleman
-Chapter two - Creating our starter project and first serious website
+Chapter two - Creating our starter project and first serious website (restaurant site)
+- Our first middleman project
+- Setting up bootstrap, sass (styles and JavaScript)
+- Setting up our navbar and footer (partials)
+- Creating our frontpage (pages)
+- Creating our menu using YAML (data)
 Chapter three - Adding a blog
 Chapter four - Using proxies to create pages (Trading cards)
 

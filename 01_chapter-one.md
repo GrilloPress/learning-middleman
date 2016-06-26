@@ -41,7 +41,27 @@ Take a few minutes to play with your IDE environment.
 
 To get started open up a terminal using `Tools > Terminal` or by pressing `Shift+Alt+T`. Once you have a terminal open, you should be ready to get going with the rest of this book. Where Codio does things slightly differently I will indicate throughout the book.
 
+> Codio isn't the only web browser IDE environment. However, it is the only one I've found that has good performance, unlimited public projects, simple enough IDE experience. I am sure others are equally good, but I either encountered them when they had flaws or they just didn't fit me. Examples include: Koding, Nitrous ...
+
 ## Installing Middleman
+
+Let's get Middleman installed.
+
+Like other Ruby gems it is a single line to install.
+
+Fire open a terminal and run:
+
+```bash
+gem install middleman
+```
+
+if you are using Mac OS X you may have to install some additional command-line tools. This is the xcode toolset. You can install this using the following command:
+
+```
+xcode-select --install
+```
+
+> If you get any errors using Codio, like permissions issues, try using ```sudo``` in front of  the gem install command. Normally you wouldn't want Middleman installed using sudo, but the codio platform occasionally requires it.
 
 ## Middleman init
 
